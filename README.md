@@ -26,5 +26,5 @@ At the time of writing, this mp3 file is free.
 Thanks to Ryan Tani (http://ryantani.com/) for the idea to implement this procrastination hack.
 
 
-GottaDash written by Tim Medina (http://devblog.timmedina.com/). 
+GottaDash written by [Tim Medina](http://devblog.timmedina.com/). 
 Released under MIT License (see LICENSE).
